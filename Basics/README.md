@@ -2,7 +2,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./img/script_output.GIF "Script Output"
+[image1]: ./img/script_output.gif "Script Output"
 
 This project covers below OpenCV bascis with Python.
 
