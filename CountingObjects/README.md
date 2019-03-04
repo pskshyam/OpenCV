@@ -2,20 +2,20 @@
 
 [//]: # (Image References)
 
-[image1]: ./img/script_output.gif "Script Output"
+[image1]: ./img/output.gif "Counting Tetris Blocks"
 
 This project covers below OpenCV bascis with Python.
 
-* Loading and displaying an image
-* Array slicing and cropping for ROI
-* Resizing image using OpenCV and imutils
-* Rotating image using OpenCV and imutils
-* Smoothing image using Gaussian Blur
-* Drawing circle, line and text on an image
+* Learning how to convert images to grayscale with OpenCV
+* Performing edge detection
+* Thresholding a grayscale image
+* Finding, counting, and drawing contours
+* Conducting erosion and dilation
+* Masking an image
 
-To execute the OpenCV_Basics.py script, open a terminal or command window and navigate to this file and from there enter the following command:
+To execute the counting_objects.py script, open a terminal or command window and navigate to this file and from there enter the following command with --image arugment:
 
-`python OpenCV_Basics.py`
+`python counting_objects.py --image img/tetris_blocks.png`
 
 To cycle through each step that is present in the script, make sure an image window is active, and press any key. You’ll see the output in terminal. I’ve also included a GIF animation demonstrating all the image processing steps that are covered, one right after the other:
 
