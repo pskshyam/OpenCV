@@ -1,10 +1,10 @@
-# OpenCV
+# Perspective Transform
 
 [//]: # (Image References)
 
-[image1]: ./output/example_1.jpg "Example1 Output"
-[image2]: ./output/example_2.jpg "Example2 Output"
-[image3]: ./output/example_3.jpg "Example3 Output"
+[image1]: ./output/example_1.png "Example1 Output"
+[image2]: ./output/example_2.png "Example2 Output"
+[image3]: ./output/example_3.png "Example3 Output"
 
 This project covers how to use a perspective transform to obtain a top-down, “birds eye view” of an image given the reference points. The repository contains below two files:
 
