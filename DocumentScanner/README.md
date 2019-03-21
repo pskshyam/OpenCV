@@ -3,9 +3,9 @@
 [//]: # (Image References)
 
 [image1]: ./images/receipt-input.JPG "Input Receipt"
-[image2]: ./images/receipt-edge-detected.JPG "Edge detection of the receipt"
-[image3]: ./images/receipt-outlined.JPG "Outline of the receipt"
-[image4]: ./images/receipt-scanned.JPG "Perspective transformed receipt"
+[image2]: ./images/receipt-edge-detected.jpg "Edge detection of the receipt"
+[image3]: ./images/receipt-outlined.jpg "Outline of the receipt"
+[image4]: ./images/receipt-scanned.jpg "Perspective transformed receipt"
 
 In this project, I showed how to build a document scanner using OpenCV. We will work on the below image of a scanned receipt.
 
